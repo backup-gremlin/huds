@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /server/
+Disallow: /api/
+
+Sitemap: https://www.emarketer.com/sitemap.xml
