@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.prweb.com/sitemap-product.xml</loc>
+    <lastmod>2024-10-16T08:02:01.099+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prweb.com/sitemap-about.xml</loc>
+    <lastmod>2024-10-16T08:02:01.099+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prweb.com/sitemap-legal.xml</loc>
+    <lastmod>2024-10-16T08:02:01.099+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prweb.com/sitemap-contact-us.xml</loc>
+    <lastmod>2024-10-16T08:02:01.099+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prweb.com/sitemap-pricing.xml</loc>
+    <lastmod>2024-10-16T08:02:01.099+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prweb.com/sitemap-prweb-us.xml</loc>
+    <lastmod>2024-10-16T08:02:01.099+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prweb.com/sitemap-releases.xml</loc>
+    <lastmod>2024-10-16T08:02:01.099+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.prweb.com/sitemap-gz.xml</loc>
+    <lastmod>2024-10-16T08:02:01.099+00:00</lastmod>
+  </sitemap>
+</sitemapindex>

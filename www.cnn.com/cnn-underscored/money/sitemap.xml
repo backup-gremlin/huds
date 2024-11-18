@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/cnn-underscored/money/wp-content/plugins/xml-sitemap-feed/assets/sitemap.xsl?ver=5.4.5"?>
+<!-- generated-on="2024-10-16T22:20:08+00:00" -->
+<!-- generator="XML Sitemap & Google News for WordPress" -->
+<!-- generator-url="https://status301.net/wordpress-plugins/xml-sitemap-feed/" -->
+<!-- generator-version="5.4.5" -->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap><loc>https://www.cnn.com/cnn-underscored/money/sitemap-root.xml</loc><lastmod>2024-10-16T15:21:36-04:00</lastmod></sitemap>
+<sitemap><loc>https://www.cnn.com/cnn-underscored/money/sitemap-posttype-post.2024.xml</loc><lastmod>2024-10-16T18:00:49-04:00</lastmod></sitemap>
+<sitemap><loc>https://www.cnn.com/cnn-underscored/money/sitemap-posttype-post.2023.xml</loc><lastmod>2024-10-16T17:56:57-04:00</lastmod></sitemap>
+<sitemap><loc>https://www.cnn.com/cnn-underscored/money/sitemap-posttype-page.xml</loc><lastmod>2024-10-15T10:10:47-04:00</lastmod></sitemap>
+<sitemap><loc>https://www.cnn.com/cnn-underscored/money/sitemap-news.xml</loc><lastmod>2024-10-16T08:26:04-04:00</lastmod></sitemap>
+</sitemapindex>

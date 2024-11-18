@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.warc.com/sitemap/Sitemap_Articles_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.warc.com/sitemap/Sitemap_Articles_2.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.warc.com/sitemap/Sitemap_CmsPages_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.warc.com/sitemap/Sitemap_FeedItems_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.warc.com/sitemap/Sitemap_LandingPages_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.warc.com/sitemap/Sitemap_NewsFeedItems_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.warc.com/sitemap/Sitemap_NewsItems_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.warc.com/sitemap/Sitemap_Opinions_1.xml</loc>
+  </sitemap>
+</sitemapindex>

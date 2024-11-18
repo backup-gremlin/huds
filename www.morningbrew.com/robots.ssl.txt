@@ -1,0 +1,21 @@
+# Hey there. Brew in peace.
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Disallow: /account/*
+Disallow: /account/*/edit
+Disallow: /*/welcome
+Disallow: /*/welcome_back
+Disallow: /*/confirmed
+Disallow: /*/refer-a-friend
+Disallow: /*/r?
+Disallow: /tmp/
+Disallow: /io-terms-conditions
+Allow: /*/stories
+Allow: /*/image
+Allow: /contributors/*
+
+Sitemap: https://www.morningbrew.com/sitemaps/news.xml
+Sitemap: https://www.morningbrew.com/sitemaps/site.xml

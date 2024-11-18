@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+      <url>
+      <loc>https://www.nytimes.com/athletic/live-blogs/wnba-finals-liberty-vs-lynx-game-3-score-live-updates/iPzBOZEYRVTx/</loc>
+      <lastmod>2024-10-16T22:20:14+00:00</lastmod>
+      <news:news>
+        <news:publication>
+          <news:name>The Athletic</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-16T21:00:01+00:00</news:publication_date>
+        <news:title>WNBA Finals score and live updates: New York Liberty vs. Minnesota Lynx predictions, odds, how to watch and schedule</news:title>
+      </news:news>
+          <image:image>
+        <image:loc>https://cdn-media.theathletic.com/iPzBOZEYRVTx_t0j6BPLQcyVj_1440x960.jpg</image:loc>
+        <image:caption/>
+      </image:image>
+        </url>
+      <url>
+      <loc>https://www.nytimes.com/athletic/live-blogs/thomas-tuchel-england-manager-live-updates/VoEVpzGfze9u/</loc>
+      <lastmod>2024-10-16T16:43:16+00:00</lastmod>
+      <news:news>
+        <news:publication>
+          <news:name>The Athletic</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-16T11:01:09+00:00</news:publication_date>
+        <news:title>How Thomas Tuchel fared in his first press conference as England manager hours after the official announcement</news:title>
+      </news:news>
+          <image:image>
+        <image:loc>https://cdn-media.theathletic.com/VoEVpzGfze9u_ihPihSLjBTEs_1440x960.jpg</image:loc>
+        <image:caption/>
+      </image:image>
+        </url>
+      <url>
+      <loc>https://www.nytimes.com/athletic/live-blogs/texas-oklahoma-live-score-updates-result-week-7-schedule/d8A3sRh7Uvmo/</loc>
+      <lastmod>2024-10-15T19:24:58+00:00</lastmod>
+      <news:news>
+        <news:publication>
+          <news:name>The Athletic</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-12T16:00:28+00:00</news:publication_date>
+        <news:title>Texas, Quinn Ewers dominate Oklahoma in Red River Rivalry: Live updates and reaction</news:title>
+      </news:news>
+          <image:image>
+        <image:loc>https://cdn-media.theathletic.com/d8A3sRh7Uvmo_1inF1Z3KCJ7c_1440x960.jpg</image:loc>
+        <image:caption/>
+      </image:image>
+        </url>
+      <url>
+      <loc>https://www.nytimes.com/athletic/live-blogs/bills-vs-jets-live-score-updates-nfl-mnf-result/c8SpyOM5l35o/</loc>
+      <lastmod>2024-10-15T04:08:36+00:00</lastmod>
+      <news:news>
+        <news:publication>
+          <news:name>The Athletic</news:name>
+          <news:language>en</news:language>
+        </news:publication>
+        <news:publication_date>2024-10-14T16:00:40+00:00</news:publication_date>
+        <news:title>Josh Allen, Bills edge Jets in penalty-filled game on Monday Night Football: Live updates and reactions</news:title>
+      </news:news>
+          <image:image>
+        <image:loc>https://cdn-media.theathletic.com/c8SpyOM5l35o_zauE1Fr6Gjbr_1440x960.jpg</image:loc>
+        <image:caption/>
+      </image:image>
+        </url>
+  </urlset>
